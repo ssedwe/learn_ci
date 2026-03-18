@@ -1,5 +1,3 @@
-
-
 import streamlit as st
 from utils import calculate_powers
 
